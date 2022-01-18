@@ -1,3 +1,13 @@
+# Tarot App V2
+
+## Interactive Tarot Reading App
+
+The main function of this app is for users to get a tarot reading, to be able to view past readings, explore a library of cards, and eventually journal about their readings!
+
+
+
+
+
 # Project Template: React/Rails API
 
 ## Description
